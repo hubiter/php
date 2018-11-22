@@ -1,0 +1,25 @@
+.u-textAlignCenter {
+    text-align:center
+}
+.posts-nav {
+    padding-bottom:30px;
+    padding-top:20px
+}
+.posts-nav .page-numbers {
+    display:inline-block;
+    border:1px solid #ddd;
+    border-radius:3px;
+    padding:7px 12px;
+    color:rgba(0, 0, 0, .44);
+    font-size:14px;
+    margin:4px
+}
+.posts-nav .page-numbers.current, .posts-nav .page-numbers:hover {
+    border-color:#5079b7;
+    color:#5079b7
+}
+.screen-reader-text {
+    position:absolute;
+    left:-9999em;
+    top:-9999em
+}

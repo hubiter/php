@@ -1,17 +1,17 @@
 /*
  Navicat Premium Data Transfer
 
- Source Server         : vps - home
+ Source Server         : vps
  Source Server Type    : MySQL
  Source Server Version : 80016
- Source Host           : v2ts.cn:33006
- Source Schema         : v2ts
+ Source Host           : jia.v2ts.cn
+ Source Schema         : 小管家 - 越贴心，越便利
 
  Target Server Type    : MySQL
  Target Server Version : 80016
  File Encoding         : 65001
 
- Date: 04/06/2019 13:36:57
+ Date: 04/06/2019 12:35:22
 */
 
 SET NAMES utf8mb4;
